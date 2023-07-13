@@ -1,4 +1,5 @@
 {
+  "resourceMetadataKEY": "yes",
   "ec2InstanceName": "jump-rio.brazil-sd",
   "privateIPKEY": "10.10.161.202",
   "secretNameKEY": "secret-name"

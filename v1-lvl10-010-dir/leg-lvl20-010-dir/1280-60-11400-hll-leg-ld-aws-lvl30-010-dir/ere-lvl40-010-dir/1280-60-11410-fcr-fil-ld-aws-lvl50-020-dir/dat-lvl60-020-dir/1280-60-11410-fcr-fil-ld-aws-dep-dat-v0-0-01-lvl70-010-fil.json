@@ -1,4 +1,10 @@
 {
-  "User": "SHA256:IfPtJGaNQiHzk1UDuec/PY2C57WEiELYjQvyFljJGho",
-  "IdentityFile": "~/.ssh/jump-github-rio.brazil-1280-60-ssh-sd"
+  "resourceMetadataKEY": "yes",
+  "name": "arn:aws:eks:eu-west-2:115289452667:cluster/lebar-dev-private",
+  "cluster": "arn:aws:eks:eu-west-2:115289452667:cluster/lebar-dev-private",
+  "namespace": "block-lebar-dev",
+  "user": "arn:aws:eks:eu-west-2:115289452667:cluster/lebar-dev-private",
+  "current-context": "arn:aws:eks:eu-west-2:115289452667:cluster/lebar-dev-private",
+  "region": "eu-west-2",
+  "cluster-name": "lebar-dev-private"
 }
