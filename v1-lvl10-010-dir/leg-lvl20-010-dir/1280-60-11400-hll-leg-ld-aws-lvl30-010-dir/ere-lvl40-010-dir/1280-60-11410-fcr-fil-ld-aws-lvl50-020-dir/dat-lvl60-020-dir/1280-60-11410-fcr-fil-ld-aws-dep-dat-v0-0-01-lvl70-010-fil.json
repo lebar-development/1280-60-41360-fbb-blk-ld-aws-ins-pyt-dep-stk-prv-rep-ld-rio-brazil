@@ -1,10 +1,3 @@
 {
-  "resourceMetadataKEY": "yes",
-  "name": "arn:aws:eks:eu-west-2:115289452667:cluster/lebar-dev-private",
-  "cluster": "arn:aws:eks:eu-west-2:115289452667:cluster/lebar-dev-private",
-  "namespace": "block-lebar-dev",
-  "user": "arn:aws:eks:eu-west-2:115289452667:cluster/lebar-dev-private",
-  "current-context": "arn:aws:eks:eu-west-2:115289452667:cluster/lebar-dev-private",
-  "region": "eu-west-2",
-  "cluster-name": "lebar-dev-private"
+  "resourceMetadataKEY": "no"
 }
